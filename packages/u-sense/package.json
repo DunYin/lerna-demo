@@ -28,5 +28,6 @@
   },
   "dependencies": {
     "element-ui": "^2.15.9"
-  }
+  },
+  "gitHead": "b8b2ce416078acbddcf006332dfa88818a572497"
 }

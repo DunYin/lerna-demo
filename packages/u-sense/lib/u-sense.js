@@ -3,5 +3,5 @@
 module.exports = uSense;
 
 function uSense() {
-    // TODO
+    return "uSense 4"
 }
