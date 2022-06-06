@@ -1,7 +1,7 @@
 {
   "name": "shiled-sense",
   "version": "0.0.4",
-  "description": "> TODO: description",
+  "description": "shield sense",
   "author": "shieldyin <1752840382@qq.com>",
   "homepage": "https://github.com/DunYin/lerna-demo#readme",
   "license": "ISC",
@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "http://registry.npm.taobao.org/"
+    "access": "public"
   },
   "repository": {
     "type": "git",
@@ -29,5 +29,5 @@
   "dependencies": {
     "element-ui": "^2.15.9"
   },
-  "gitHead": "7a04aa7565c66f4542cf1106f2754c7d32d6da81"
+  "gitHead": "f21540396b6b71dbc518de7e1becb4a1659f3417"
 }
