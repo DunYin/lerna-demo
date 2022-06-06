@@ -1,5 +1,5 @@
 {
-  "name": "@shiled/u-button",
+  "name": "shiled/u-button",
   "version": "0.0.3",
   "description": "button",
   "keywords": [
@@ -31,5 +31,6 @@
   },
   "dependencies": {
     "js-base64": "^3.7.2"
-  }
+  },
+  "gitHead": "b971690b8d226998ceb8e34f33723fe174247ddf"
 }
