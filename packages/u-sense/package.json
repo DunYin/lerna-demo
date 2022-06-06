@@ -1,0 +1,32 @@
+{
+  "name": "@shiled/u-sense",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "shieldyin <1752840382@qq.com>",
+  "homepage": "https://github.com/DunYin/lerna-demo#readme",
+  "license": "ISC",
+  "main": "lib/u-sense.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://registry.npm.taobao.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DunYin/lerna-demo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/DunYin/lerna-demo/issues"
+  },
+  "dependencies": {
+    "element-ui": "^2.15.9"
+  }
+}
