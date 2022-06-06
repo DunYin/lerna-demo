@@ -1,0 +1,11 @@
+{
+  "name": "lerna-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:DunYin/lerna-demo.git",
+  "author": "shieldyin <1752840382@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^5.0.0"
+  }
+}
