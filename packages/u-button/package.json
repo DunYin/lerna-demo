@@ -1,6 +1,6 @@
 {
   "name": "shiled-button",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "button",
   "keywords": [
     "button"
@@ -24,7 +24,7 @@
     "url": "git+https://github.com/DunYin/lerna-demo.git"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "echo \"Error: button run tests from root\""
   },
   "bugs": {
     "url": "https://github.com/DunYin/lerna-demo/issues"

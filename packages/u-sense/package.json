@@ -1,6 +1,6 @@
 {
   "name": "shiled-sense",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "description": "shield sense",
   "author": "shieldyin <1752840382@qq.com>",
   "homepage": "https://github.com/DunYin/lerna-demo#readme",
@@ -21,7 +21,7 @@
     "url": "git+https://github.com/DunYin/lerna-demo.git"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "echo \"Error: sense run tests from root\""
   },
   "bugs": {
     "url": "https://github.com/DunYin/lerna-demo/issues"
