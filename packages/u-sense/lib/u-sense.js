@@ -3,5 +3,5 @@
 module.exports = uSense;
 
 function uSense() {
-    return "uSense 4"
+    return "uSense 7"
 }
