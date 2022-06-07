@@ -10,8 +10,8 @@
     "packages/*"
   ],
   "scripts": {
-    "test": "lerna run test && yarn publish",
-    "publish": "lerna publish from-package"
+    "test": "lerna run test && yarn autoPublish",
+    "autoPublish:": "lerna publish from-package"
   },
   "devDependencies": {
     "lerna": "^5.0.0"
