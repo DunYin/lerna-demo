@@ -15,5 +15,6 @@
           ],
           "message": "build: release version %v"
       }
-  }
+  },
+  "yes": true
 }
