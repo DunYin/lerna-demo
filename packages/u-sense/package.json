@@ -1,6 +1,6 @@
 {
   "name": "shiled-sense",
-  "version": "0.0.14-r220608.0",
+  "version": "0.0.14",
   "description": "shield sense",
   "author": "shieldyin <1752840382@qq.com>",
   "homepage": "https://github.com/DunYin/lerna-demo#readme",
@@ -29,7 +29,7 @@
   "dependencies": {
     "element-ui": "^2.15.9",
     "shiled-button": "^0.0.9",
-    "shiled-utag": "0.0.5-r220608.0"
+    "shiled-utag": "0.0.5"
   },
   "gitHead": "f21540396b6b71dbc518de7e1becb4a1659f3417"
 }
