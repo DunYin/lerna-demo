@@ -3,5 +3,5 @@
 module.exports = uTag;
 
 function uTag() {
-    return "utag 1"
+    return "utag 2"
 }
