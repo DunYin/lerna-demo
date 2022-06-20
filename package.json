@@ -10,13 +10,19 @@
     "packages/*"
   ],
   "scripts": {
-    "test": "lerna run test && yarn autoPublish",
-    "autoPublish": "lerna publish from-package"
+    "test": "lerna run test",
+    "build": "lerna run build",
+    "autoPublish": "lerna publish",
+    "changed": "lerna changed",
+    "autoBuild": "node ./script/build.js && yarn changed",
+    "packageList": "lerna list",
+    "build:dev": "node ./script/publish.dev.js"
   },
   "devDependencies": {
     "lerna": "^5.0.0"
   },
   "dependencies": {
-    "axios": "^0.27.2"
+    "axios": "^0.27.2",
+    "cross-env": "^7.0.3"
   }
 }

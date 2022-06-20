@@ -1,0 +1,11 @@
+build_test:
+  #测试包
+  stage: build
+  only:
+    - feat/init
+  tags:
+    - fe-group-prod-runner-2
+  script:
+    - node -v
+    - npm -v
+    - yarn -v
